@@ -1,0 +1,29 @@
+{
+  "name": "cell-potapovvlad",
+  "version": "1.0.0",
+  "description": "cell-potapovvlad is a Node.js module providing a collection of utilities that are as powerful as supernovas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/potapov526/cell-potapovvlad"
+  },
+  "dependencies": {
+	  "susanmartin-config": "1.0.0",
+"farmaniyah-mod": "1.0.0",
+"tai32max32-config": "1.0.0",
+"elizabethmiller": "1.0.0",
+"trumposwere": "1.0.0",
+"carolscott": "1.0.0",
+    "axios": "^0.24.0",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/potapov526/cell-potapovvlad/issues"
+  },
+  "homepage": "https://github.com/potapov526/cell-potapovvlad#readme"
+}
